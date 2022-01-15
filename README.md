@@ -1,5 +1,5 @@
 # StringToBin
-This is a repo that contains the script used to convert a sting to binary
+A python script used to convert a string to binary.
 
 How to use this software.
 
